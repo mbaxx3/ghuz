@@ -74,6 +74,11 @@ nav {
   text-align: end;
   padding-right: 20px;
 }
+.nav-btn:hover{
+  background: #fff;
+  border: 2px solid #316499;
+  color:#316499;
+}
 
 .nav-btn,
 .hero-btn {
@@ -212,6 +217,10 @@ nav {
 
 /* OUR SERVICES end */
 
+
+
+
+
 /* NEW LISTED PROPERTIES start  */
 
 .section-2-title > h1 {
@@ -286,6 +295,11 @@ nav {
   text-align: center;
   height: 70px;
   width: 100%;
+}
+.sec2-btn:hover{
+  background: #fff;
+  
+  color:#316499;
 }
 
 .sec2-button {
